@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MessageGetter</string>
+    <string name="advice_text_sample">Advice Text</string>
+    <string name="advice_code_sample">Advice Code</string>
+    <string name="btn_get_advice">Give me an advice</string>
+    <string name="title_page">Advices</string>
+</resources>
